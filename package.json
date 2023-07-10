@@ -13,5 +13,12 @@
   ],
   "author": "Ashley Thibodeau",
   "license": "MIT",
-  "description": "NodeJS API"
+  "description": "NodeJS API",
+  "dependencies": {
+    "axios": "^1.4.0",
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "jest": "^29.6.1",
+    "nodemon": "^3.0.1"
+  }
 }
