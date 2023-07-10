@@ -1,5 +1,8 @@
+//THIS IS FOR JEST TESTING
+
 const {jokeService, jokeServiceById} = require('./jokeService');
 
+//THIS IS TURNED OFF TO TEST LIVE | UNCOMMENT TO RUN MOCK ENVIROMENT
 //jest.mock('./jokeService')
 
 describe('Joke Service Tests', () => {

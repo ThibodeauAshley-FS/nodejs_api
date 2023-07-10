@@ -1,5 +1,5 @@
 const express = require('express');
-const jokeRouter = require('../router/jokeRouter');
+const jokeRouter = require('./router/jokeRouter');
 
 const app = express();
 

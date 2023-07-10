@@ -1,3 +1,5 @@
+//THIS IS FOR THE ROUTER MIDDLEWARE
+
 const express = require('express');
 const { jokeService, jokeServiceById } = require('../services/jokeService');
 const jokeRouter = express.Router();
